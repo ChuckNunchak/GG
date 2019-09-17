@@ -1,0 +1,10 @@
+D:\Учеба\3курс\Practise\Kalkulator2\Kalkulator2\bin\Debug\Kalkulator2.exe.config
+D:\Учеба\3курс\Practise\Kalkulator2\Kalkulator2\bin\Debug\Kalkulator2.exe
+D:\Учеба\3курс\Practise\Kalkulator2\Kalkulator2\bin\Debug\Kalkulator2.pdb
+D:\Учеба\3курс\Practise\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.csprojAssemblyReference.cache
+D:\Учеба\3курс\Practise\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.Form1.resources
+D:\Учеба\3курс\Practise\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.Properties.Resources.resources
+D:\Учеба\3курс\Practise\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.csproj.GenerateResource.cache
+D:\Учеба\3курс\Practise\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.csproj.CoreCompileInputs.cache
+D:\Учеба\3курс\Practise\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.exe
+D:\Учеба\3курс\Practise\Kalkulator2\Kalkulator2\obj\Debug\Kalkulator2.pdb
